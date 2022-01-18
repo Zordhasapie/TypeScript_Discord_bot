@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\commands",
+    "\\src\\commands\\collections",
+    "\\src\\commands\\messages",
+    "\\src\\commands\\schema",
+    "\\src\\constants",
+    "\\src\\models",
+    "\\src\\services",
+    "\\src\\types",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
