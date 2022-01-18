@@ -34,6 +34,7 @@
   "_moduleAliases": {
     "@": "dist"
   },
+  "engines" : { "node" : ">=16.6.0" },
   "scripts": {
     "start": "NODE_ENV=production node dist/index.js",
     "build": "rm -rf dist && tsc",
